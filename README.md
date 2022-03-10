@@ -34,7 +34,7 @@ $ conda create --name double_cross --file double_cross_env.txt
 ```
 
 ## Attack Components
-![Figure 2](https://github.com/FPSG-UIUC/double_cross/blob/master/full_attack.pdf)
+![Figure 2](full_attack.pdf)
 Figure 2 describes the attack process which is emulated by this code.
 At a high level, that process consists of:
 1. Training a Trigger Generator ([acgan.py](acgan.py)).
